@@ -42,19 +42,19 @@ The dataset is synthetic, so the insights demonstrate the automation and not rea
 
 ## Screenshots
 ### Summary (2024-04)
-![Summary April](summary.png)
+![Summary April](summary.png.png)
 
 ### Summary (2024-03): same code, one line changed
-![Summary March](summary_march.png)
+![Summary March](summary_march.png.png)
 
 ### Billing by medical condition
-![Condition](condition.png)
+![Condition](condition.png.png)
 
 ### Monthly admissions trend
-![Trend](trend.png)
+![Trend](trend.png.png)
 
 ### Validation (report vs source data)
-![Validation](validation.png)
+![Validation](validation.png.png)
 
 ## How to run
 1. Open the notebook in Google Colab
@@ -81,4 +81,4 @@ Python, Pandas, NumPy, XlsxWriter, Excel, Google Colab
 - Hospital and doctor names in the dataset are randomly generated, so hospital-level and doctor-level rankings are not meaningful and are not included
 
 ## Author
-Abinayaa . J | linkedin.com/in/abinaya-j-69549227b
+Abinayaa J | [LinkedIn](https://www.linkedin.com/in/abinaya-j-69549227b)
